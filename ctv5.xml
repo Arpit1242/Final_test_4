@@ -77,7 +77,7 @@
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1165" scalable="true" maintainAspectRatio="true">
+<MediaFile id="GDFP" delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="1165" scalable="true" maintainAspectRatio="true">
 <![CDATA[ https://samplelib.com/lib/preview/mp4/sample-30s.mp4 ]]>
 </MediaFile>
 </MediaFiles>
