@@ -78,7 +78,7 @@
 </VideoClicks>
 <MediaFiles>
 <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1165" scalable="true" maintainAspectRatio="true">
-<![CDATA[ https://filesamples.com/samples/video/mp4/sample_960x400_ocean_with_audio.mp4 ]]>
+<![CDATA[ https://samplelib.com/lib/preview/mp4/sample-30s.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
